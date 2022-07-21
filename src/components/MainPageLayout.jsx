@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react/cjs/react.development';
 import Navs from './Navs';
 import Title from './Title';
 import Mylogo from '../images/Mylogo.png';
