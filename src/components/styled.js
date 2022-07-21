@@ -54,3 +54,9 @@ export const Star = styled.div`
     39% 35%
   );
 `;
+
+export const ImgSize = styled.div`
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+`;
